@@ -8,6 +8,60 @@
                     "id": 1,
                     "id_site": null,
                     "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Cilandak-Barat-001-705009_1/embed.html",
+                    "location": {
+                        "latitude": -6.291937, 
+                        "longitude": 106.795103
+                    }
+                }
+            }
+        ]
+    }, 
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Cilandak-Barat-001-705009_3/embed.html",
+                    "location": {
+                        "latitude": -6.291937, 
+                        "longitude": 106.795103
+                    }
+                }
+            }
+        ]
+    }, 
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Cilandak-Barat-001-705009_2/embed.html",
+                    "location": {
+                        "latitude": -6.291937, 
+                        "longitude": 106.795103
+                    }
+                }
+            }
+        ]
+    }, 
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
                     "url": "https://cctv.balitower.co.id/Bambu-Apus-001-MP-601170_2/embed.html",
                     "location": {
                         "latitude": -6.31509,
@@ -16,8 +70,7 @@
                 }
             }
         ]
-    },
-     
+    }, 
     {
         "type": "FeatureCollection",
         "features": [
