@@ -6899,6 +6899,60 @@
             {
                 "type": "Feature",
                 "properties": {
+                    "id": 383,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Gunung-002-705027_2/embed.html",
+                    "location": {
+                        "latitude": -6.23588,
+                        "longitude": 106.78981
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 383,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Gunung-002-705027_3/embed.html",
+                    "location": {
+                        "latitude": -6.23588,
+                        "longitude": 106.78981
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 383,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Gunung-002-705027_4/embed.html",
+                    "location": {
+                        "latitude": -6.23588,
+                        "longitude": 106.78981
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
                     "id": 384,
                     "id_site": null,
                     "nama_site": 0,
