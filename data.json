@@ -8,6 +8,60 @@
                     "id": 1,
                     "id_site": null,
                     "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Sukabumi-Utara-007-702460_2/embed.html",
+                    "location": {
+                        "latitude": -6.213400,
+                        "longitude": 106.780979
+                    }
+                }
+            }
+        ]
+    }, 
+     {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Sukabumi-Utara-007-702460_3/embed.html",
+                    "location": {
+                        "latitude": -6.213400,
+                        "longitude": 106.780979
+                    }
+                }
+            }
+        ]
+    }, 
+     {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Sukabumi-Utara-007-702460_4/embed.html",
+                    "location": {
+                        "latitude": -6.213400,
+                        "longitude": 106.780979
+                    }
+                }
+            }
+        ]
+    }, 
+     {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
                     "url": "https://cctv.balitower.co.id/Pondok-Pinang-001-705075_3/embed.html",
                     "location": {
                         "latitude": -6.287908, 
