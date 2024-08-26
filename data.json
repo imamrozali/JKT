@@ -23,6 +23,42 @@
             {
                 "type": "Feature",
                 "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Grogol-Selatan-019-705600_2/embed.html",
+                    "location": {
+                        "latitude": -6.226757, 
+                        "longitude": 106.788434
+                    }
+                }
+            }
+        ]
+    },
+     {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 2,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Grogol-Selatan-019-705600_3/embed.html",
+                    "location": {
+                        "latitude": -6.226757, 
+                        "longitude": 106.788434
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
                     "id": 2,
                     "id_site": null,
                     "nama_site": 0,
