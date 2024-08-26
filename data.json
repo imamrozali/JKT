@@ -6647,6 +6647,60 @@
             {
                 "type": "Feature",
                 "properties": {
+                    "id": 369,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Pondok-Pinang-006-705485_2/embed.html",
+                    "location": {
+                        "latitude": -6.24469,
+                        "longitude": 106.78226
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 369,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Pondok-Pinang-006-705485_3/embed.html",
+                    "location": {
+                        "latitude": -6.24469,
+                        "longitude": 106.78226
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 369,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Pondok-Pinang-006-705485_4/embed.html",
+                    "location": {
+                        "latitude": -6.24469,
+                        "longitude": 106.78226
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
                     "id": 370,
                     "id_site": null,
                     "nama_site": 0,
