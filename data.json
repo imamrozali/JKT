@@ -917,6 +917,24 @@
             }
         ]
     },
+     {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 52,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Gelora-004-700047_1/embed.html",
+                    "location": {
+                        "latitude": -6.22489,
+                        "longitude": 106.80458
+                    }
+                }
+            }
+        ]
+    },
     {
         "type": "FeatureCollection",
         "features": [
@@ -945,6 +963,24 @@
                     "id_site": null,
                     "nama_site": 0,
                     "url": "https://cctv.balitower.co.id/Gelora-004-700047_3/embed.html",
+                    "location": {
+                        "latitude": -6.22489,
+                        "longitude": 106.80458
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 53,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Gelora-004-700047_4/embed.html",
                     "location": {
                         "latitude": -6.22489,
                         "longitude": 106.80458
