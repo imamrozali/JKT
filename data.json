@@ -8,6 +8,60 @@
                     "id": 1,
                     "id_site": null,
                     "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Grogol-Utara-036-795049_1/embed.html",
+                    "location": {
+                        "latitude": -6.222220, 
+                        "longitude": 106.778564
+                    }
+                }
+            }
+        ]
+    }, 
+     {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Grogol-Utara-036-795049_2/embed.html",
+                    "location": {
+                        "latitude": -6.222220, 
+                        "longitude": 106.778564
+                    }
+                }
+            }
+        ]
+    }, 
+     {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Grogol-Utara-036-795049_3/embed.html",
+                    "location": {
+                        "latitude": -6.222220, 
+                        "longitude": 106.778564
+                    }
+                }
+            }
+        ]
+    }, 
+     {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "id_site": null,
+                    "nama_site": 0,
                     "url": "https://cctv.balitower.co.id/Pondok-Pinang-001-705075_3/embed.html",
                     "location": {
                         "latitude": -6.287908, 
