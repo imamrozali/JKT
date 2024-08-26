@@ -17,60 +17,7 @@
             }
         ]
     },
-     {
-        "type": "FeatureCollection",
-        "features": [
-            {
-                "type": "Feature",
-                "properties": {
-                    "id": 1,
-                    "id_site": null,
-                    "nama_site": 0,
-                    "url": "https://cctv.balitower.co.id/Ulujami-001-MP-601115_2/embed.html",
-                    "location": {
-                        "latitude": -6.217608, 
-                        "longitude": 106.758431
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "type": "FeatureCollection",
-        "features": [
-            {
-                "type": "Feature",
-                "properties": {
-                    "id": 1,
-                    "id_site": null,
-                    "nama_site": 0,
-                    "url": "https://cctv.balitower.co.id/Ulujami-001-MP-601115_3/embed.html",
-                    "location": {
-                        "latitude": -6.217608, 
-                        "longitude": 106.758431
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "type": "FeatureCollection",
-        "features": [
-            {
-                "type": "Feature",
-                "properties": {
-                    "id": 1,
-                    "id_site": null,
-                    "nama_site": 0,
-                    "url": "https://cctv.balitower.co.id/Ulujami-001-MP-601115_4/embed.html",
-                    "location": {
-                        "latitude": -6.217608, 
-                        "longitude": 106.758431
-                    }
-                }
-            }
-        ]
-    },
+     
     {
         "type": "FeatureCollection",
         "features": [
