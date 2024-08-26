@@ -5135,6 +5135,24 @@
             {
                 "type": "Feature",
                 "properties": {
+                    "id": 285,
+                    "id_site": null,
+                    "nama_site": 0,
+                    "url": "https://cctv.balitower.co.id/Gelora-001-700043_5/embed.html",
+                    "location": {
+                        "latitude": -6.21737,
+                        "longitude": 106.7981
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
                     "id": 286,
                     "id_site": null,
                     "nama_site": 0,
